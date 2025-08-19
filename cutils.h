@@ -174,5 +174,4 @@ static inline void easter_egg_function(void)
 #endif
 
 // End code:
-
 #endif
