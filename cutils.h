@@ -34,7 +34,6 @@ extern "C"
 
 // Math utils:
 #ifdef IMPORT_MATH_UTILS
-
 	// Math variables:
 	#define PI_S_L 3.14L                  // Approximate pi (short type in long double).
 	#define PI_L_L 3.1415926535897932385L // Pi (Long type in long double).
@@ -175,4 +174,5 @@ static inline void easter_egg_function(void)
 #endif
 
 // End code:
+
 #endif
