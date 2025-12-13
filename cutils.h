@@ -50,7 +50,7 @@ extern "C"
 #define CUTILS_FULL_VERSION                 150L            /* C Utils full version variable (1.5.0).           */
 #define CUTILS_MAJOR_VERSION                1L              /* C Utils major version variable (1).              */
 #define CUTILS_MINOR_VERSION                5L              /* C Utils minor version variable (5).              */
-#define CUTILS_PATCH_VERSION                0L              /* C Utils patch version variable (0).              */
+#define CUTILS_PATCH_VERSION                1L              /* C Utils patch version variable (0).              */
 
 /* Terminal colors: */
 #define BASE_TERMINAL                       "\033[m"        /* Reset terminal text.                             */
